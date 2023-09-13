@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "Exploring the Fictional World: A Bestseller Journey",
+    "cover": "https://i.ibb.co/frNh4vt/flag-bangladesh.jpg",
+    "author": "Atik Sahariyar",
+    "authorImg": "https://i.ibb.co/R3vnL8B/273824137-652489655795453-8775777143702803874-n.jpg",
+    "posteDate": "2023-09-10",
+    "readingTime": 3,
+    "hashtags": ["fiction", "bestseller"]
+  },
+  {
+    "id": "2",
+    "title": "Unveiling Mysteries and Thrills: A Journey with Author 2",
+    "cover": "https://i.ibb.co/Gcgsx1G/equipment-tourism-sun-landscape-yellow-wave-1.jpg",
+    "author": "Almas",
+    "authorImg": "https://i.ibb.co/ZffjPcZ/345599078-1056171735349462-5868057286554953591-n.jpg",
+    "posteDate": "2023-09-09",
+    "readingTime": 2.5,
+    "hashtags": ["mystery", "thriller"]
+  },
+  {
+    "id": "3",
+    "title": "Embarking on a Sci-Fi Space Odyssey with Author 3",
+    "cover": "https://i.ibb.co/Gcgsx1G/equipment-tourism-sun-landscape-yellow-wave-1.jpg",
+    "author": "Rajib",
+    "authorImg": "https://i.ibb.co/HKfXbWV/375666525-2684737905013420-9024825014542943931-n.jpg",
+    "posteDate": "2023-09-08",
+    "readingTime": 2,
+    "hashtags": ["science-fiction", "space"]
+  },
+  {
+    "id": "4",
+    "title": "Love and Romance: Author 4's Heartfelt Tales",
+    "cover": "https://i.ibb.co/jGV7vGT/prague-castle-view.jpg",
+    "author": "Sharif",
+    "authorImg": "https://i.ibb.co/nnzqn3m/371497327-3504161129845586-3275796601459983212-n.jpg",
+    "posteDate": "2023-09-07",
+    "readingTime": 1.5,
+    "hashtags": ["romance", "love"]
+  },
+  {
+    "id": "5",
+    "title": "Journey into Fantasy and Magic with Author 5",
+    "cover": "https://i.ibb.co/g7nHhVk/flag-pakistan.jpg",
+    "author": "Al-amin",
+    "authorImg": "https://i.ibb.co/tcGnZ9c/332167449-592139695757454-1411851961209992227-n.jpg",
+    "posteDate": "2023-09-06",
+    "readingTime": 4,
+    "hashtags": ["fantasy", "magic"]
+  }
+]
